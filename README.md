@@ -1,6 +1,6 @@
 # Instala mongo-hacker Windows
 
-Comecei o curso ontem e tive um grande problema com o mongo-hacker, passei tarde toda procurando uma solução e finalmente achei. E estou aqui para compartilha-la com vocês para com essa já deveremos ter:
+Comecei o curso ontem e tive um grande problema com o mongo-hacker, passei tarde toda procurando uma solução e finalmente achei. E estou aqui para compartilha-la com vocês para começar já deveremos ter:
 
   - git e gitbash
   - nodejs
