@@ -8,7 +8,7 @@ Comecei o curso ontem e tive um grande problema com o mongo-hacker, passei tarde
 
 Então vamos começar baixando o comando make que o "Ruindows" não nos oferece nativamente, eu recomendo o [GNUWIN ](https://github.com/user/repo/blob/branch/other_file.md) basta baixar 'Complete package, except sources'. Depois de baixa-lo e instalalo vamos adiciona o arquivo no Path.
 
-Primeiro vamos procurar a pasta raiz onde se localiza o maker geramente fica em 
+Primeiro vamos procurar a pasta raiz onde se localiza o make geramente fica em 
 "C > Program Files (x86) > GnuWin32 >bin" resumindo "C:\Program Files (x86)\GnuWin32\bin"
 
 ![alt tag](http://i.imgur.com/KjWOlNy.png)
@@ -38,7 +38,7 @@ vá ate final da linha coloque um ; no final caso não aja e cole o diretorio qu
 
 ![alt tag](http://i.imgur.com/lrgWeed.png)
 
-pronto instalamos o make no Windows agora vamo testa abra o BIT BASH pelo amor de tudo que e mais sagrado, Nao use o CMD(aquela porcaria). Com o git bash aberto digite
+pronto instalamos o make no Windows agora vamo testa abra o GIT BASH pelo amor de tudo que e mais sagrado, Nao use o CMD(aquela porcaria). Com o git bash aberto digite
 
 ```sh
 $ make
@@ -76,7 +76,7 @@ clone o repositório
 $ git clone https://github.com/TylerBrock/mongo-hacker.git
 ```
 
-agora vamos configura lo para não ficar exibido umas mensagens de erro chata
+agora vamos configura lo para não ficar exibindo umas mensagens de erro chata
 
 ```sh
 $ cd mongo-hacker
